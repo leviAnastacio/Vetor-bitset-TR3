@@ -16,7 +16,7 @@
   Basta abrir o terminal na pasta em que se encontra os arquivos, e digite os seguintes comandos:
   ```
   cd Vetor-bitset-TR3
-  gcc TR3_538536.c main_heap.c -o vetBit
+  gcc TR3_538536.c -o vetBit
   ```
   ***3.Como executar o programa:***
     Logo após ter digitado os últimos comandos, ainda no terminal, digite o próximo comando:  
