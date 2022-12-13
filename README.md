@@ -13,7 +13,7 @@
   git clone https://github.com/leviAnastacio/Vetor-bitset-TR3.git
   ```
 ***2.Como compilar o programa:*** 
-  Basta abrir o terminal na pasta em que se encontra os arquivos, e digite o seguinte comando:
+  Basta abrir o terminal na pasta em que se encontra os arquivos, e digite os seguintes comandos:
   ```
   cd Vetor-bitset-TR3
   gcc TR3_538536.c main_heap.c -o vetBit
